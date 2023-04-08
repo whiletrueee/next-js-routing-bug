@@ -3,4 +3,4 @@
 We as in https://github.com/shawshankkumar
 and https://github.com/whiletrueee
 
-Issue files on vercel: https://github.com/vercel/next.js/issues/48129
+Issue files on vercel/nextjs: https://github.com/vercel/next.js/issues/48129
